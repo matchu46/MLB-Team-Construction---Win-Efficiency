@@ -1,0 +1,511 @@
+yearID,teamID,name,W,payroll
+2000,ANA,Anaheim Angels,82,51464167
+2000,ARI,Arizona Diamondbacks,85,81027833
+2000,ATL,Atlanta Braves,95,84537836
+2000,BAL,Baltimore Orioles,74,81447435
+2000,BOS,Boston Red Sox,85,77940333
+2000,CHA,Chicago White Sox,95,31133500
+2000,CHN,Chicago Cubs,65,60539333
+2000,CIN,Cincinnati Reds,85,46867200
+2000,CLE,Cleveland Indians,90,75880771
+2000,COL,Colorado Rockies,82,61111190
+2000,DET,Detroit Tigers,79,58265167
+2000,FLO,Florida Marlins,79,19872000
+2000,HOU,Houston Astros,72,51289111
+2000,KCA,Kansas City Royals,77,23433000
+2000,LAN,Los Angeles Dodgers,86,87924286
+2000,MIL,Milwaukee Brewers,73,36505333
+2000,MIN,Minnesota Twins,69,16519500
+2000,MON,Montreal Expos,67,32994333
+2000,NYA,New York Yankees,87,92338260
+2000,NYN,New York Mets,94,79509776
+2000,OAK,Oakland Athletics,91,31971333
+2000,PHI,Philadelphia Phillies,65,47308000
+2000,PIT,Pittsburgh Pirates,69,28928334
+2000,SDN,San Diego Padres,76,54821000
+2000,SEA,Seattle Mariners,91,58915000
+2000,SFN,San Francisco Giants,97,53737826
+2000,SLN,St. Louis Cardinals,95,61453863
+2000,TBA,Tampa Bay Devil Rays,69,62765129
+2000,TEX,Texas Rangers,71,70795921
+2000,TOR,Toronto Blue Jays,83,44838332
+2001,ANA,Anaheim Angels,75,47535167
+2001,ARI,Arizona Diamondbacks,92,85082999
+2001,ATL,Atlanta Braves,88,91936166
+2001,BAL,Baltimore Orioles,63,67599540
+2001,BOS,Boston Red Sox,82,110035833
+2001,CHA,Chicago White Sox,83,65653667
+2001,CHN,Chicago Cubs,88,64715833
+2001,CIN,Cincinnati Reds,66,48986000
+2001,CLE,Cleveland Indians,91,93152001
+2001,COL,Colorado Rockies,73,71541334
+2001,DET,Detroit Tigers,66,53416167
+2001,FLO,Florida Marlins,76,35762500
+2001,HOU,Houston Astros,93,60612667
+2001,KCA,Kansas City Royals,65,35422500
+2001,LAN,Los Angeles Dodgers,86,109105953
+2001,MIL,Milwaukee Brewers,68,43886833
+2001,MIN,Minnesota Twins,85,24130000
+2001,MON,Montreal Expos,68,35159500
+2001,NYA,New York Yankees,95,112287143
+2001,NYN,New York Mets,82,93174428
+2001,OAK,Oakland Athletics,102,33810750
+2001,PHI,Philadelphia Phillies,86,41663833
+2001,PIT,Pittsburgh Pirates,62,57760833
+2001,SDN,San Diego Padres,79,39182833
+2001,SEA,Seattle Mariners,116,74720834
+2001,SFN,San Francisco Giants,90,63280167
+2001,SLN,St. Louis Cardinals,93,78538333
+2001,TBA,Tampa Bay Devil Rays,62,56980000
+2001,TEX,Texas Rangers,73,88633500
+2001,TOR,Toronto Blue Jays,80,76895999
+2002,ANA,Anaheim Angels,99,61721667
+2002,ARI,Arizona Diamondbacks,98,102819999
+2002,ATL,Atlanta Braves,101,92870367
+2002,BAL,Baltimore Orioles,67,60493487
+2002,BOS,Boston Red Sox,93,108366060
+2002,CHA,Chicago White Sox,81,57052833
+2002,CHN,Chicago Cubs,67,75690833
+2002,CIN,Cincinnati Reds,78,45050390
+2002,CLE,Cleveland Indians,74,78909449
+2002,COL,Colorado Rockies,73,56851043
+2002,DET,Detroit Tigers,55,55048000
+2002,FLO,Florida Marlins,79,41979917
+2002,HOU,Houston Astros,84,63448417
+2002,KCA,Kansas City Royals,62,47257000
+2002,LAN,Los Angeles Dodgers,92,94850953
+2002,MIL,Milwaukee Brewers,56,50287833
+2002,MIN,Minnesota Twins,94,40425000
+2002,MON,Montreal Expos,83,38670500
+2002,NYA,New York Yankees,103,125928583
+2002,NYN,New York Mets,75,94633593
+2002,OAK,Oakland Athletics,103,40004167
+2002,PHI,Philadelphia Phillies,80,57954999
+2002,PIT,Pittsburgh Pirates,72,42323599
+2002,SDN,San Diego Padres,66,41425000
+2002,SEA,Seattle Mariners,93,80282668
+2002,SFN,San Francisco Giants,95,78299835
+2002,SLN,St. Louis Cardinals,97,74660875
+2002,TBA,Tampa Bay Devil Rays,55,34380000
+2002,TEX,Texas Rangers,72,105526122
+2002,TOR,Toronto Blue Jays,78,76864333
+2003,ANA,Anaheim Angels,77,79031667
+2003,ARI,Arizona Diamondbacks,84,80657000
+2003,ATL,Atlanta Braves,101,106243667
+2003,BAL,Baltimore Orioles,71,73877500
+2003,BOS,Boston Red Sox,95,99946500
+2003,CHA,Chicago White Sox,86,51010000
+2003,CHN,Chicago Cubs,88,79868333
+2003,CIN,Cincinnati Reds,69,59355667
+2003,CLE,Cleveland Indians,68,48584834
+2003,COL,Colorado Rockies,74,67179667
+2003,DET,Detroit Tigers,43,49168000
+2003,FLO,Florida Marlins,91,49450000
+2003,HOU,Houston Astros,87,71040000
+2003,KCA,Kansas City Royals,83,40518000
+2003,LAN,Los Angeles Dodgers,85,105572620
+2003,MIL,Milwaukee Brewers,68,40627000
+2003,MIN,Minnesota Twins,90,55505000
+2003,MON,Montreal Expos,83,51948500
+2003,NYA,New York Yankees,101,152749814
+2003,NYN,New York Mets,66,116876429
+2003,OAK,Oakland Athletics,96,50260834
+2003,PHI,Philadelphia Phillies,86,70780000
+2003,PIT,Pittsburgh Pirates,75,54812429
+2003,SDN,San Diego Padres,64,45210000
+2003,SEA,Seattle Mariners,93,86959167
+2003,SFN,San Francisco Giants,100,82852167
+2003,SLN,St. Louis Cardinals,85,83786666
+2003,TBA,Tampa Bay Devil Rays,63,19630000
+2003,TEX,Texas Rangers,71,103491667
+2003,TOR,Toronto Blue Jays,86,51269000
+2004,ANA,Anaheim Angels,92,100534667
+2004,ARI,Arizona Diamondbacks,51,69780750
+2004,ATL,Atlanta Braves,96,90182500
+2004,BAL,Baltimore Orioles,78,51623333
+2004,BOS,Boston Red Sox,98,127298500
+2004,CHA,Chicago White Sox,83,65212500
+2004,CHN,Chicago Cubs,89,90560000
+2004,CIN,Cincinnati Reds,76,46615250
+2004,CLE,Cleveland Indians,80,34319300
+2004,COL,Colorado Rockies,68,65445167
+2004,DET,Detroit Tigers,72,46832000
+2004,FLO,Florida Marlins,83,42143042
+2004,HOU,Houston Astros,92,75397000
+2004,KCA,Kansas City Royals,58,47609000
+2004,LAN,Los Angeles Dodgers,93,92902001
+2004,MIL,Milwaukee Brewers,67,27528500
+2004,MIN,Minnesota Twins,92,53585000
+2004,MON,Montreal Expos,67,40897500
+2004,NYA,New York Yankees,101,184193950
+2004,NYN,New York Mets,71,96660970
+2004,OAK,Oakland Athletics,91,59425667
+2004,PHI,Philadelphia Phillies,86,92919167
+2004,PIT,Pittsburgh Pirates,72,32227929
+2004,SDN,San Diego Padres,87,55384833
+2004,SEA,Seattle Mariners,63,81515834
+2004,SFN,San Francisco Giants,91,82019166
+2004,SLN,St. Louis Cardinals,105,83228333
+2004,TBA,Tampa Bay Devil Rays,70,29556667
+2004,TEX,Texas Rangers,89,55050417
+2004,TOR,Toronto Blue Jays,67,50017000
+2005,ARI,Arizona Diamondbacks,77,62329166
+2005,ATL,Atlanta Braves,90,86457302
+2005,BAL,Baltimore Orioles,74,73914333
+2005,BOS,Boston Red Sox,95,123505125
+2005,CHA,Chicago White Sox,99,75178000
+2005,CHN,Chicago Cubs,79,87032933
+2005,CIN,Cincinnati Reds,73,61892583
+2005,CLE,Cleveland Indians,93,41502500
+2005,COL,Colorado Rockies,67,47839000
+2005,DET,Detroit Tigers,71,69092000
+2005,FLO,Florida Marlins,83,60408834
+2005,HOU,Houston Astros,89,76779000
+2005,KCA,Kansas City Royals,56,36881000
+2005,LAA,Los Angeles Angels of Anaheim,95,94867822
+2005,LAN,Los Angeles Dodgers,71,83039000
+2005,MIL,Milwaukee Brewers,81,39934833
+2005,MIN,Minnesota Twins,83,56186000
+2005,NYA,New York Yankees,95,208306817
+2005,NYN,New York Mets,83,101305821
+2005,OAK,Oakland Athletics,88,55425762
+2005,PHI,Philadelphia Phillies,88,95522000
+2005,PIT,Pittsburgh Pirates,67,38133000
+2005,SDN,San Diego Padres,82,63290833
+2005,SEA,Seattle Mariners,69,87754334
+2005,SFN,San Francisco Giants,75,90199500
+2005,SLN,St. Louis Cardinals,100,92106833
+2005,TBA,Tampa Bay Devil Rays,67,29679067
+2005,TEX,Texas Rangers,79,55849000
+2005,TOR,Toronto Blue Jays,80,45719500
+2005,WAS,Washington Nationals,81,48581500
+2006,ARI,Arizona Diamondbacks,76,59684226
+2006,ATL,Atlanta Braves,79,90156876
+2006,BAL,Baltimore Orioles,70,72585582
+2006,BOS,Boston Red Sox,86,120099824
+2006,CHA,Chicago White Sox,90,102750667
+2006,CHN,Chicago Cubs,66,94424499
+2006,CIN,Cincinnati Reds,80,60909519
+2006,CLE,Cleveland Indians,78,56031500
+2006,COL,Colorado Rockies,76,41233000
+2006,DET,Detroit Tigers,95,82612866
+2006,FLO,Florida Marlins,78,14671500
+2006,HOU,Houston Astros,82,88694435
+2006,KCA,Kansas City Royals,62,47294000
+2006,LAA,Los Angeles Angels of Anaheim,89,103472000
+2006,LAN,Los Angeles Dodgers,88,98447187
+2006,MIL,Milwaukee Brewers,75,57568333
+2006,MIN,Minnesota Twins,96,63396006
+2006,NYA,New York Yankees,97,194663079
+2006,NYN,New York Mets,97,101084963
+2006,OAK,Oakland Athletics,93,62243079
+2006,PHI,Philadelphia Phillies,85,88273333
+2006,PIT,Pittsburgh Pirates,67,46717750
+2006,SDN,San Diego Padres,88,69896141
+2006,SEA,Seattle Mariners,78,87959833
+2006,SFN,San Francisco Giants,76,90056419
+2006,SLN,St. Louis Cardinals,83,88891371
+2006,TBA,Tampa Bay Devil Rays,61,34917967
+2006,TEX,Texas Rangers,80,68228662
+2006,TOR,Toronto Blue Jays,87,71365000
+2006,WAS,Washington Nationals,71,63143000
+2007,ARI,Arizona Diamondbacks,90,52067546
+2007,ATL,Atlanta Braves,84,87290833
+2007,BAL,Baltimore Orioles,69,93174808
+2007,BOS,Boston Red Sox,96,143026214
+2007,CHA,Chicago White Sox,72,108671833
+2007,CHN,Chicago Cubs,85,99670332
+2007,CIN,Cincinnati Reds,72,68524980
+2007,CLE,Cleveland Indians,96,61673267
+2007,COL,Colorado Rockies,90,54041000
+2007,DET,Detroit Tigers,88,94800369
+2007,FLO,Florida Marlins,71,30507000
+2007,HOU,Houston Astros,73,87759000
+2007,KCA,Kansas City Royals,69,67116500
+2007,LAA,Los Angeles Angels of Anaheim,94,109251333
+2007,LAN,Los Angeles Dodgers,82,108454524
+2007,MIL,Milwaukee Brewers,83,70986500
+2007,MIN,Minnesota Twins,79,71439500
+2007,NYA,New York Yankees,94,189259045
+2007,NYN,New York Mets,88,115231663
+2007,OAK,Oakland Athletics,76,79366940
+2007,PHI,Philadelphia Phillies,89,89428213
+2007,PIT,Pittsburgh Pirates,68,38537833
+2007,SDN,San Diego Padres,89,58110567
+2007,SEA,Seattle Mariners,88,106460833
+2007,SFN,San Francisco Giants,71,90219056
+2007,SLN,St. Louis Cardinals,78,90286823
+2007,TBA,Tampa Bay Devil Rays,66,24123500
+2007,TEX,Texas Rangers,75,68318675
+2007,TOR,Toronto Blue Jays,83,81942800
+2007,WAS,Washington Nationals,73,36947500
+2008,ARI,Arizona Diamondbacks,82,66202712
+2008,ATL,Atlanta Braves,72,102365683
+2008,BAL,Baltimore Orioles,68,67196246
+2008,BOS,Boston Red Sox,95,133390035
+2008,CHA,Chicago White Sox,89,121189332
+2008,CHN,Chicago Cubs,97,118345833
+2008,CIN,Cincinnati Reds,74,74117695
+2008,CLE,Cleveland Indians,81,78970066
+2008,COL,Colorado Rockies,74,68655500
+2008,DET,Detroit Tigers,74,137685196
+2008,FLO,Florida Marlins,84,21811500
+2008,HOU,Houston Astros,86,88930414
+2008,KCA,Kansas City Royals,75,58245500
+2008,LAA,Los Angeles Angels of Anaheim,100,119216333
+2008,LAN,Los Angeles Dodgers,84,118588536
+2008,MIL,Milwaukee Brewers,90,80937499
+2008,MIN,Minnesota Twins,88,56932766
+2008,NYA,New York Yankees,89,207896789
+2008,NYN,New York Mets,89,137793376
+2008,OAK,Oakland Athletics,75,47967126
+2008,PHI,Philadelphia Phillies,92,97879880
+2008,PIT,Pittsburgh Pirates,67,48689783
+2008,SDN,San Diego Padres,63,73677616
+2008,SEA,Seattle Mariners,61,117666482
+2008,SFN,San Francisco Giants,72,76594500
+2008,SLN,St. Louis Cardinals,86,99624449
+2008,TBA,Tampa Bay Rays,97,43820597
+2008,TEX,Texas Rangers,79,67712326
+2008,TOR,Toronto Blue Jays,86,97793900
+2008,WAS,Washington Nationals,59,54961000
+2009,ARI,Arizona Diamondbacks,70,73115666
+2009,ATL,Atlanta Braves,86,96726166
+2009,BAL,Baltimore Orioles,64,67101666
+2009,BOS,Boston Red Sox,95,121345999
+2009,CHA,Chicago White Sox,79,96068500
+2009,CHN,Chicago Cubs,83,134809000
+2009,CIN,Cincinnati Reds,78,73558500
+2009,CLE,Cleveland Indians,65,81579166
+2009,COL,Colorado Rockies,92,75201000
+2009,DET,Detroit Tigers,86,115085145
+2009,FLO,Florida Marlins,87,36834000
+2009,HOU,Houston Astros,74,102996414
+2009,KCA,Kansas City Royals,65,70519333
+2009,LAA,Los Angeles Angels of Anaheim,97,113709000
+2009,LAN,Los Angeles Dodgers,95,100414592
+2009,MIL,Milwaukee Brewers,80,80182502
+2009,MIN,Minnesota Twins,87,65299266
+2009,NYA,New York Yankees,103,201449189
+2009,NYN,New York Mets,70,149373987
+2009,OAK,Oakland Athletics,75,61910000
+2009,PHI,Philadelphia Phillies,93,113004046
+2009,PIT,Pittsburgh Pirates,62,48693000
+2009,SDN,San Diego Padres,75,43333700
+2009,SEA,Seattle Mariners,85,98904166
+2009,SFN,San Francisco Giants,88,83026450
+2009,SLN,St. Louis Cardinals,91,88528409
+2009,TBA,Tampa Bay Rays,84,63313034
+2009,TEX,Texas Rangers,87,68178798
+2009,TOR,Toronto Blue Jays,75,80538300
+2009,WAS,Washington Nationals,59,59928000
+2010,ARI,Arizona Diamondbacks,65,60718166
+2010,ATL,Atlanta Braves,91,84423666
+2010,BAL,Baltimore Orioles,66,81612500
+2010,BOS,Boston Red Sox,89,162447333
+2010,CHA,Chicago White Sox,88,105530000
+2010,CHN,Chicago Cubs,75,146609000
+2010,CIN,Cincinnati Reds,91,71761542
+2010,CLE,Cleveland Indians,69,61203966
+2010,COL,Colorado Rockies,83,84227000
+2010,DET,Detroit Tigers,81,122864928
+2010,FLO,Florida Marlins,80,57029719
+2010,HOU,Houston Astros,76,92355500
+2010,KCA,Kansas City Royals,67,71405210
+2010,LAA,Los Angeles Angels of Anaheim,80,104963866
+2010,LAN,Los Angeles Dodgers,80,95358016
+2010,MIL,Milwaukee Brewers,77,81108278
+2010,MIN,Minnesota Twins,94,97559166
+2010,NYA,New York Yankees,95,206333389
+2010,NYN,New York Mets,79,134422942
+2010,OAK,Oakland Athletics,81,55254900
+2010,PHI,Philadelphia Phillies,97,141928379
+2010,PIT,Pittsburgh Pirates,57,34943000
+2010,SDN,San Diego Padres,90,37799300
+2010,SEA,Seattle Mariners,61,86510000
+2010,SFN,San Francisco Giants,92,98641333
+2010,SLN,St. Louis Cardinals,86,93540751
+2010,TBA,Tampa Bay Rays,96,71923471
+2010,TEX,Texas Rangers,90,55250544
+2010,TOR,Toronto Blue Jays,85,62234000
+2010,WAS,Washington Nationals,69,61400000
+2011,ARI,Arizona Diamondbacks,94,53639833
+2011,ATL,Atlanta Braves,89,87002692
+2011,BAL,Baltimore Orioles,69,85304038
+2011,BOS,Boston Red Sox,90,161762475
+2011,CHA,Chicago White Sox,79,127789000
+2011,CHN,Chicago Cubs,71,125047329
+2011,CIN,Cincinnati Reds,79,75947134
+2011,CLE,Cleveland Indians,80,48776566
+2011,COL,Colorado Rockies,73,88148071
+2011,DET,Detroit Tigers,95,105700231
+2011,FLO,Florida Marlins,72,56944000
+2011,HOU,Houston Astros,56,70694000
+2011,KCA,Kansas City Royals,71,35712000
+2011,LAA,Los Angeles Angels of Anaheim,86,138543166
+2011,LAN,Los Angeles Dodgers,82,104188999
+2011,MIL,Milwaukee Brewers,96,85497333
+2011,MIN,Minnesota Twins,63,112737000
+2011,NYA,New York Yankees,97,202275028
+2011,NYN,New York Mets,77,118847309
+2011,OAK,Oakland Athletics,74,66536500
+2011,PHI,Philadelphia Phillies,102,172976379
+2011,PIT,Pittsburgh Pirates,72,45047000
+2011,SDN,San Diego Padres,71,45869140
+2011,SEA,Seattle Mariners,67,86110600
+2011,SFN,San Francisco Giants,86,118198333
+2011,SLN,St. Louis Cardinals,90,105433572
+2011,TBA,Tampa Bay Rays,91,41053571
+2011,TEX,Texas Rangers,96,92299264
+2011,TOR,Toronto Blue Jays,81,62567800
+2011,WAS,Washington Nationals,80,63856928
+2012,ARI,Arizona Diamondbacks,81,73804833
+2012,ATL,Atlanta Braves,94,82829942
+2012,BAL,Baltimore Orioles,93,77353999
+2012,BOS,Boston Red Sox,69,173186617
+2012,CHA,Chicago White Sox,85,96919500
+2012,CHN,Chicago Cubs,61,88197033
+2012,CIN,Cincinnati Reds,97,82203616
+2012,CLE,Cleveland Indians,68,78430300
+2012,COL,Colorado Rockies,64,78069571
+2012,DET,Detroit Tigers,88,132300000
+2012,HOU,Houston Astros,55,60651000
+2012,KCA,Kansas City Royals,72,60916225
+2012,LAA,Los Angeles Angels of Anaheim,89,154485166
+2012,LAN,Los Angeles Dodgers,86,95143575
+2012,MIA,Miami Marlins,69,118078000
+2012,MIL,Milwaukee Brewers,83,97653944
+2012,MIN,Minnesota Twins,66,94085000
+2012,NYA,New York Yankees,95,196522289
+2012,NYN,New York Mets,74,93353983
+2012,OAK,Oakland Athletics,94,55372500
+2012,PHI,Philadelphia Phillies,81,174538938
+2012,PIT,Pittsburgh Pirates,79,62951999
+2012,SDN,San Diego Padres,76,55244700
+2012,SEA,Seattle Mariners,75,81978100
+2012,SFN,San Francisco Giants,94,117620683
+2012,SLN,St. Louis Cardinals,88,110300862
+2012,TBA,Tampa Bay Rays,90,64173500
+2012,TEX,Texas Rangers,93,120510974
+2012,TOR,Toronto Blue Jays,73,75009200
+2012,WAS,Washington Nationals,98,80855143
+2013,ARI,Arizona Diamondbacks,81,90132000
+2013,ATL,Atlanta Braves,96,87871525
+2013,BAL,Baltimore Orioles,85,84393333
+2013,BOS,Boston Red Sox,97,151530000
+2013,CHA,Chicago White Sox,63,120065277
+2013,CHN,Chicago Cubs,66,100567726
+2013,CIN,Cincinnati Reds,90,106404462
+2013,CLE,Cleveland Indians,92,75771800
+2013,COL,Colorado Rockies,74,74409071
+2013,DET,Detroit Tigers,93,145989500
+2013,HOU,Houston Astros,51,17890700
+2013,KCA,Kansas City Royals,86,80091725
+2013,LAA,Los Angeles Angels of Anaheim,78,124174750
+2013,LAN,Los Angeles Dodgers,92,223362196
+2013,MIA,Miami Marlins,62,33601900
+2013,MIL,Milwaukee Brewers,74,76947033
+2013,MIN,Minnesota Twins,66,75337500
+2013,NYA,New York Yankees,85,231978886
+2013,NYN,New York Mets,74,49448346
+2013,OAK,Oakland Athletics,96,60132500
+2013,PHI,Philadelphia Phillies,73,169863189
+2013,PIT,Pittsburgh Pirates,94,77062000
+2013,SDN,San Diego Padres,76,65585500
+2013,SEA,Seattle Mariners,71,74005043
+2013,SFN,San Francisco Giants,76,140180334
+2013,SLN,St. Louis Cardinals,97,92260110
+2013,TBA,Tampa Bay Rays,92,52955272
+2013,TEX,Texas Rangers,91,112522600
+2013,TOR,Toronto Blue Jays,74,126288100
+2013,WAS,Washington Nationals,86,113703270
+2014,ARI,Arizona Diamondbacks,64,97861500
+2014,ATL,Atlanta Braves,79,97609000
+2014,BAL,Baltimore Orioles,96,103416000
+2014,BOS,Boston Red Sox,71,139019929
+2014,CHA,Chicago White Sox,73,81830500
+2014,CHN,Chicago Cubs,73,65522500
+2014,CIN,Cincinnati Reds,76,108217500
+2014,CLE,Cleveland Indians,85,82151899
+2014,COL,Colorado Rockies,66,95403500
+2014,DET,Detroit Tigers,90,152855500
+2014,HOU,Houston Astros,70,35116300
+2014,KCA,Kansas City Royals,89,74594075
+2014,LAA,Los Angeles Angels of Anaheim,98,121988250
+2014,LAN,Los Angeles Dodgers,94,217014600
+2014,MIA,Miami Marlins,77,41836900
+2014,MIL,Milwaukee Brewers,82,101217000
+2014,MIN,Minnesota Twins,70,83762500
+2014,NYA,New York Yankees,84,197543907
+2014,NYN,New York Mets,79,85556990
+2014,OAK,Oakland Athletics,88,72408400
+2014,PHI,Philadelphia Phillies,73,180944967
+2014,PIT,Pittsburgh Pirates,88,77178000
+2014,SDN,San Diego Padres,77,75685700
+2014,SEA,Seattle Mariners,87,92531100
+2014,SFN,San Francisco Giants,88,163510167
+2014,SLN,St. Louis Cardinals,90,120693000
+2014,TBA,Tampa Bay Rays,77,72689100
+2014,TEX,Texas Rangers,67,112255059
+2014,TOR,Toronto Blue Jays,83,109920100
+2014,WAS,Washington Nationals,96,131983680
+2015,ARI,Arizona Diamondbacks,79,61834000
+2015,ATL,Atlanta Braves,67,71781250
+2015,BAL,Baltimore Orioles,81,115044833
+2015,BOS,Boston Red Sox,78,181103400
+2015,CHA,Chicago White Sox,76,112373700
+2015,CHN,Chicago Cubs,97,115879310
+2015,CIN,Cincinnati Reds,64,113072286
+2015,CLE,Cleveland Indians,81,87663766
+2015,COL,Colorado Rockies,68,95688600
+2015,DET,Detroit Tigers,74,172284750
+2015,HOU,Houston Astros,86,72256200
+2015,KCA,Kansas City Royals,95,112107025
+2015,LAA,Los Angeles Angels of Anaheim,85,120005415
+2015,LAN,Los Angeles Dodgers,92,215792000
+2015,MIA,Miami Marlins,71,68056500
+2015,MIL,Milwaukee Brewers,68,100850000
+2015,MIN,Minnesota Twins,83,107755000
+2015,NYA,New York Yankees,87,212751957
+2015,NYN,New York Mets,90,96766683
+2015,OAK,Oakland Athletics,68,79053501
+2015,PHI,Philadelphia Phillies,63,111693000
+2015,PIT,Pittsburgh Pirates,98,88892499
+2015,SDN,San Diego Padres,74,118441300
+2015,SEA,Seattle Mariners,76,122208700
+2015,SFN,San Francisco Giants,84,164701500
+2015,SLN,St. Louis Cardinals,100,119241500
+2015,TBA,Tampa Bay Rays,80,64521233
+2015,TEX,Texas Rangers,88,143742789
+2015,TOR,Toronto Blue Jays,93,112992400
+2015,WAS,Washington Nationals,83,155587472
+2016,ARI,Arizona Diamondbacks,69,87439063
+2016,ATL,Atlanta Braves,68,68498291
+2016,BAL,Baltimore Orioles,89,161863456
+2016,BOS,Boston Red Sox,93,188545761
+2016,CHA,Chicago White Sox,78,112998667
+2016,CHN,Chicago Cubs,103,154067668
+2016,CIN,Cincinnati Reds,68,88940059
+2016,CLE,Cleveland Indians,94,74311900
+2016,COL,Colorado Rockies,75,112645071
+2016,DET,Detroit Tigers,86,194876481
+2016,HOU,Houston Astros,84,94893700
+2016,KCA,Kansas City Royals,81,131487125
+2016,LAA,Los Angeles Angels of Anaheim,74,137251333
+2016,LAN,Los Angeles Dodgers,91,221288380
+2016,MIA,Miami Marlins,79,77314202
+2016,MIL,Milwaukee Brewers,73,68775237
+2016,MIN,Minnesota Twins,59,102583200
+2016,NYA,New York Yankees,84,222997792
+2016,NYN,New York Mets,87,133889129
+2016,OAK,Oakland Athletics,69,86806234
+2016,PHI,Philadelphia Phillies,71,58980000
+2016,PIT,Pittsburgh Pirates,78,103778833
+2016,SDN,San Diego Padres,68,101424814
+2016,SEA,Seattle Mariners,86,135683339
+2016,SFN,San Francisco Giants,87,172253778
+2016,SLN,St. Louis Cardinals,86,143053500
+2016,TBA,Tampa Bay Rays,68,57097310
+2016,TEX,Texas Rangers,95,176038723
+2016,TOR,Toronto Blue Jays,89,138701700
+2016,WAS,Washington Nationals,95,141652646
