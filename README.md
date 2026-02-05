@@ -140,6 +140,24 @@ Model diagnostics indicate good calibration, stable residual variance, and stron
 
 These results confirm that payroll influences wins primarily through its ability to generate on-field value.
 
+Notebook 4: Visual Storytelling and Executive Summary
+
+This notebook translates analytical findings into an executive-facing narrative.
+
+Focus areas:
+
+High-level framing of payroll versus wins
+
+Visual demonstration of WAR as the key driver of success
+
+Clear presentation of best and worst value teams
+
+Simplified model results without technical detail
+
+Actionable takeaways for front office decision-making
+
+This notebook is designed to be read independently by non-technical stakeholders.
+
 Key Insights
 
 Payroll alone is an inconsistent predictor of team success
@@ -172,25 +190,19 @@ This allows the analysis to be reviewed without executing notebooks.
 
 Tools & Technologies
 
-Python (pandas, numpy, matplotlib)
+Python: pandas, numpy, matplotlib
 
-SQL (SQLite)
+SQL: SQLite
 
-Jupyter Notebooks
+Modeling: statsmodels, scikit-learn
 
-scikit-learn (modeling phase)
+Environment: Jupyter Notebooks
 
-statsmodels (upcoming regression analysis)
+Conclusion
 
-Next Steps
+This project demonstrates that competitive success in Major League Baseball depends less on how much teams spend and more on how effectively they convert spending into on-field value.
 
-Notebook 4: Visual storytelling and executive-style summaries
-
-Notebook 4: visual storytelling and executive-style summaries
-
-Extend modeling with time-based validation or alternative specifications
-
-Explore causal or counterfactual approaches to roster efficiency
+Organizations that prioritize WAR efficiency consistently outperform financial expectations, while high payrolls alone do not guarantee success.
 
 Author
 
