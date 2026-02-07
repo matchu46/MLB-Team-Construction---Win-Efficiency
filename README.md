@@ -19,6 +19,17 @@ How does payroll efficiency shape competitive outcomes across seasons?
 
 To what extent does WAR mediate the relationship between payroll and wins?
 
+Key Results
+
+Payroll alone explains under 10 percent of variation in team wins.
+
+WAR explains over 80 percent of variation in team wins.
+
+Separating batting and pitching WAR produces the strongest predictive model.
+
+Several low- and mid-payroll teams consistently outperform spending expectations.
+
+
 Data Sources
 
 Lahman Baseball Database (SQL)
